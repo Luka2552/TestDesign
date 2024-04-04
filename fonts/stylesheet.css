@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Helvetica Neue LT GEO 55 Bold';
+  src: local('Helvetica Neue LT GEO 75 Bold'),
+    local('HelveticaNeueLTGEO-75Bold'), format('woff2'),
+    url('HelveticaNeueLTGEO-75Bold.ttf') format('truetype');
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Helvetica Neue LT GEO 55 Roman';
+  src: local('Helvetica Neue LT GEO 55 Roman'),
+    local('HelveticaNeueLTGEO-55Roman'),
+    url('HelveticaNeueLTGEO-55Roman.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'PPTelegraf';
+  src: local('PP Telegraf Regular'), local('PPTelegraf-Regular'),
+    url('PPTelegraf-Regular.woff2') format('woff2'),
+    url('PPTelegraf-Regular.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'PP Telegraf Bold';
+  src: local('PP Telegraf Ultrabold'), local('PPTelegraf-Ultrabold'),
+    url('PPTelegraf-Ultrabold.woff2') format('woff2'),
+    url('PPTelegraf-Ultrabold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}

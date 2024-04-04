@@ -1,0 +1,66 @@
+@media only screen and (max-width: 1444px) {
+  .flex-container {
+    display: block;
+  }
+  .about-us-paragraph {
+    margin-left: 0;
+  }
+  .about-us-image {
+    margin-left: 10%;
+  }
+
+  .about-us-button {
+    margin-left: 0;
+  }
+
+  .services-btn {
+    padding: 0.625rem 1rem;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .burger-menu {
+    display: none;
+    background-color: #080b15;
+    border: none;
+    cursor: pointer;
+    width: 9%;
+    margin-left: 80%;
+  }
+
+  .translate-btn {
+    display: none;
+  }
+  .nav {
+    display: none;
+  }
+  .footer {
+    height: 65vh;
+    text-align: center;
+  }
+  .nav2 ul {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    width: 10rem;
+  }
+
+  .main-container h1 {
+    font-size: 3.5rem;
+  }
+  .about-us-paragraph {
+    margin: 0;
+  }
+  .flex-container {
+    display: block;
+  }
+  .about-us-image {
+    margin-left: 0;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .main-container h1 {
+    font-size: 3.2rem;
+  }
+}

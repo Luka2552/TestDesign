@@ -1,0 +1,1 @@
+This project serves as a test design template for web development purposes. It includes various elements and styles to demonstrate layout techniques, typography, responsive, and other common components found in web design projects.
